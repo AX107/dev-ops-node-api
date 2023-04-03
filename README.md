@@ -1,4 +1,5 @@
 ---
+Initial Commit
 page_type: sample
 languages:
 - javascript
