@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 page_type: sample
 languages:
@@ -27,3 +28,8 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+=======
+# dev-ops-node-api
+# Updating from website
+# updating Second Time 
+>>>>>>> 7aeea6ada8063b1d1e33f8bcd3b9fe2b69296f75
